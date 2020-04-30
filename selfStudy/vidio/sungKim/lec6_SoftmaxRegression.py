@@ -1,5 +1,0 @@
-'''
-Where is sigmoid?
-    
-
-'''
